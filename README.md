@@ -1,1 +1,2 @@
-# AB-Testi-ile-Bidding-Y-ntemlerini-Kar-la-t-rma
+# AB Testi ile Bidding Yöntemlerini Karşılaştırma
+### Bir firmanın web site bilgilerini içeren bu veri setinde kullanıcıların gördükleri ve tıkladıkları reklam sayıları gibi bilgilerin yanı sıra buradan gelen kazanç bilgileri yer almaktadır. Kontrol ve Test grubu olmak üzere iki ayrı veri seti vardır. Bu veri setleri ab_testing.xlsx excel’inin ayrı sayfalarında yer almaktadır. Kontrol grubuna Maximum Bidding, test grubuna Average Bidding uygulanmıştır.
